@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file>dbStructure.sql</file>
+        <file>data.sql</file>
+    </qresource>
+</RCC>
