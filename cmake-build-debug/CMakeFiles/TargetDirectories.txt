@@ -1,8 +1,0 @@
-C:/Users/Chrystalkey/Documents/GitHub/FlauschArchivar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Chrystalkey/Documents/GitHub/FlauschArchivar/cmake-build-debug/CMakeFiles/FlauschArchivar.dir
-C:/Users/Chrystalkey/Documents/GitHub/FlauschArchivar/cmake-build-debug/CMakeFiles/install/local.dir
-C:/Users/Chrystalkey/Documents/GitHub/FlauschArchivar/cmake-build-debug/CMakeFiles/install.dir
-C:/Users/Chrystalkey/Documents/GitHub/FlauschArchivar/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Chrystalkey/Documents/GitHub/FlauschArchivar/cmake-build-debug/CMakeFiles/list_install_components.dir
-C:/Users/Chrystalkey/Documents/GitHub/FlauschArchivar/cmake-build-debug/CMakeFiles/install/strip.dir
-C:/Users/Chrystalkey/Documents/GitHub/FlauschArchivar/cmake-build-debug/CMakeFiles/FlauschArchivar_autogen.dir

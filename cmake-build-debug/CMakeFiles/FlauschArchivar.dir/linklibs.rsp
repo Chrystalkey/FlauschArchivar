@@ -1,1 +1,0 @@
-F:/developement/Qt/5.11.1/mingw53_32/lib/libQt5Sqld.a F:/developement/Qt/5.11.1/mingw53_32/lib/libQt5Widgetsd.a F:/developement/Qt/5.11.1/mingw53_32/lib/libQt5Guid.a -static-libgcc -static-libstdc++ F:/developement/Qt/5.11.1/mingw53_32/lib/libQt5Cored.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
